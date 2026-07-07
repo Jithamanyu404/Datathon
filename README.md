@@ -94,17 +94,5 @@ Datathon-main/
 - Built an interactive dashboard for exploring district-level educational trends.
 - Generated actionable policy recommendations based on statistical analysis and visualization.
 
----
 
-## Future Improvements
 
-- Incorporate additional government datasets.
-- Develop predictive models for dropout risk.
-- Add district-wise forecasting and recommendation systems.
-- Enhance dashboard interactivity with more filters and visualizations.
-
----
-
-## Team
-
-Developed as part of a **Data-Driven Policy Innovation Datathon**.
